@@ -26,6 +26,13 @@ develop social network for team
   <li>除了admin有操作操作的权限，也可以添加role以及对应的operation对operation进行处理</li>
 </ol>
 
+操作operation是功能的核心功能，系统管理员或者操作管理员可以根据团队功能的需要方便的添加operation，operation添加之后，拥有角色的人员就可以对operation进行使用，一般来说，一个operation有几种使用方式：
+<ol>
+  <li>对operation的查看view，这种模式下，用户可以收到operation的notification并查看operation的情况，但不能进行操作</li>
+  <li>对operation的执行execute，这种模式下，可以收到notification并执行相应的操作</li>
+</ol>
+
+
 ### 添加子团队
 一个团队可以有很多子团队，子团队可以加入tag或者用categroy组织起来，可以很方便的进入关联团队，子团队的一些分类有：
 <ol>
@@ -34,3 +41,10 @@ develop social network for team
   <li>供应链机构可能是子团队中的一种</li>
   <li>各种关联团队或者机构可能是子团队中的一种</li>
 </ol>
+
+### 信息版 messageboard
+信息版是系统的核心功能。信息版基本模型（样子）类似whatapp。一般用户主要看见的app的样子就是一个信息版。信息版的基本工作方式是：
+<ol>
+  <li>每个团队有默认的信息发送操作operation</li>
+</ol>
+
