@@ -42,9 +42,11 @@ develop social network for team
   <li>各种关联团队或者机构可能是子团队中的一种</li>
 </ol>
 
-### 信息版 messageboard
-信息版是系统的核心功能。信息版基本模型（样子）类似whatapp。一般用户主要看见的app的样子就是一个信息版。信息版的基本工作方式是：
-<ol>
-  <li>每个团队有默认的信息发送操作operation</li>
-</ol>
+### 信息中心 message center 和 message channel
+每个team 会定义一个 message center，message center 可以创建 message channnel. message channel是某些人，某些角色+某类信息的组合，默认的channel 包括：team-all,这个显示team内所有信息，all-operation，先生所有operation的信息，all-message(no operation).除了默认的channel,team 管理员可以建一些 role+message 类型的组合形成的channel.在channel内，对应人员看和操作信息。
+
+手机端和电脑端的app的界面类似：
+
+![image](https://user-images.githubusercontent.com/3657139/209262073-6480d6cb-4559-4133-baad-cadf8247f197.png)
+
 
