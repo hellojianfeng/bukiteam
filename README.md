@@ -66,7 +66,7 @@ develop social network for team
   <li>购买完成之后，还可以通过message安排定期维护等工作</li>
 </ol>
 
-<p>说明：用channel和message以及message对附件，评论等控制，可以灵活完成业务流程，但等到业务流程相对固定之后，可以建立operation来执行，可以更加高效和一致，以上操作如果用operation方式执行，可能包含以下步骤：</p>
+#### 说明：用channel和message以及message对附件，评论等控制，可以灵活完成业务流程，但等到业务流程相对固定之后，可以建立operation来执行，可以更加高效和一致，以上操作如果用operation方式执行，可能包含以下步骤：
 
 <ol>
   <li>建立team并加入相关人员</li>
