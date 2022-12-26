@@ -45,9 +45,13 @@ develop social network for team
 ### 信息中心 message center 和 message channel
 每个team 会定义一个 message center，message center 可以创建 message channnel. message channel是某些人，某些角色+某类信息的组合，默认的channel 包括：team-all,这个显示team内所有信息，all-operation，显示所有operation的信息，all-message(no operation).除了默认的channel,team 管理员可以建一些 role+message 类型的组合形成的channel.在channel内，对应人员看和操作信息。
 
-手机端和电脑端的app的界面类似：
+手机端和电脑端的app的一些界面设计：
 
-![image](https://user-images.githubusercontent.com/3657139/209522858-41931750-0851-4664-b9c7-af93aceba679.png)
+![image](https://user-images.githubusercontent.com/3657139/209524404-79d9f77d-cc11-499b-a02a-79694b2f221e.png)
+
+![image](https://user-images.githubusercontent.com/3657139/209528751-44c04c27-cbaf-4190-9e9c-2def0325afe2.png)
+
+
 
 
 
