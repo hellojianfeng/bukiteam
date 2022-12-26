@@ -47,7 +47,8 @@ develop social network for team
 
 手机端和电脑端的app的一些界面设计：
 
-![image](https://user-images.githubusercontent.com/3657139/209524404-79d9f77d-cc11-499b-a02a-79694b2f221e.png)
+![image](https://user-images.githubusercontent.com/3657139/209531785-3727e6f2-745e-430f-85fc-6d9c57f2df3d.png)
+
 
 ![image](https://user-images.githubusercontent.com/3657139/209528751-44c04c27-cbaf-4190-9e9c-2def0325afe2.png)
 
