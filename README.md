@@ -80,5 +80,7 @@ Add Operation:
   <li>销售方可以建立设备维护operation，将维护人员加入，并确认好维护合同和操作细节</li>
 </ol>
 
+![image](https://user-images.githubusercontent.com/3657139/209620706-e26008ee-678b-40b6-825f-689bc5da13e7.png)
+
 
 
