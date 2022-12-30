@@ -56,6 +56,10 @@ Add Message Channel:
 Add Operation:
 ![image](https://user-images.githubusercontent.com/3657139/209610931-53fbfbcb-140a-4aaf-a2f6-3417d98b6701.png)
 
+Operations in tablet or pc
+![image](https://user-images.githubusercontent.com/3657139/210072519-52c80c72-9b20-4878-87c5-4c52efb186df.png)
+
+
 ### 案例
 
 ## 餐馆订购厨房万能烤箱的案例
