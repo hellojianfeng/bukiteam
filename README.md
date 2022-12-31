@@ -59,6 +59,10 @@ Add Operation:
 Operations in tablet or pc
 ![image](https://user-images.githubusercontent.com/3657139/210072519-52c80c72-9b20-4878-87c5-4c52efb186df.png)
 
+Messages in tablet or pc
+![image](https://user-images.githubusercontent.com/3657139/210126844-a19dbfc5-2895-4847-92ea-a8401597c2e7.png)
+
+
 
 ### 案例
 
