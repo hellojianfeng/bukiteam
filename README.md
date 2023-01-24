@@ -14,6 +14,10 @@ develop social network for team
   <li>操作team的operation</li>
 </ol>
 
+#### 团队创建的基本流程
+![image](https://user-images.githubusercontent.com/3657139/214242946-c26bf1aa-9056-487d-a707-fed986c9347f.png)
+
+
 ### 添加团队角色并且添加角色人员
 <ol>
   <li>每个团队的角色role具有唯一的id</li>
