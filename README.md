@@ -94,5 +94,7 @@ Messages in tablet or pc
 
 ![image](https://user-images.githubusercontent.com/3657139/209620706-e26008ee-678b-40b6-825f-689bc5da13e7.png)
 
+#### 案例研究：资产管理系统
+![image](https://user-images.githubusercontent.com/3657139/214290659-f3204bd5-f132-4c29-b5db-8434c6f1e5eb.png)
 
 
