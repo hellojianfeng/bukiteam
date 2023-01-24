@@ -48,7 +48,7 @@ develop social network for team
 手机端和电脑端的app的一些界面设计：
 
 Message Center:
-![image](https://user-images.githubusercontent.com/3657139/211178066-ce815ecb-8e64-48ed-9213-e38bdae7b004.png)
+![image](https://user-images.githubusercontent.com/3657139/214238271-1fd762df-69c6-4968-b61f-ac9fb0e865d7.png)
 
 Add Message Channel:
 ![image](https://user-images.githubusercontent.com/3657139/209528751-44c04c27-cbaf-4190-9e9c-2def0325afe2.png)
