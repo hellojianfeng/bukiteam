@@ -95,7 +95,15 @@ Messages in tablet or pc
 ![image](https://user-images.githubusercontent.com/3657139/209620706-e26008ee-678b-40b6-825f-689bc5da13e7.png)
 
 #### 案例研究：资产管理系统
+
+##### 传统资产管理系统的实现
+
 ![image](https://user-images.githubusercontent.com/3657139/214466502-7585a142-88f5-4255-9236-b414ea2a0f24.png)
+
+##### Bukiteam 架构实现资产管理系统
+
+![image](https://user-images.githubusercontent.com/3657139/214793058-2170665f-8a8a-4bbd-a36a-013318493d27.png)
+
 
 
 
