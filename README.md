@@ -106,7 +106,7 @@ Messages in tablet or pc
 
 ##### Basic db tables
 
-![image](https://user-images.githubusercontent.com/3657139/217543569-95ec2fd7-4ffd-453b-ac0b-c18223532fa6.png)
+![image](https://user-images.githubusercontent.com/3657139/217547904-b3ceb0ff-5431-41e7-abea-0596ab218c75.png)
 
 ![image](https://user-images.githubusercontent.com/3657139/217543688-e7e3b68b-96ed-498e-8117-de3217cccd0f.png)
 
