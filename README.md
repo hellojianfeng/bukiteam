@@ -104,6 +104,13 @@ Messages in tablet or pc
 
 ![image](https://user-images.githubusercontent.com/3657139/214793058-2170665f-8a8a-4bbd-a36a-013318493d27.png)
 
+##### Basic db tables
+
+![image](https://user-images.githubusercontent.com/3657139/217543569-95ec2fd7-4ffd-453b-ac0b-c18223532fa6.png)
+
+![image](https://user-images.githubusercontent.com/3657139/217543688-e7e3b68b-96ed-498e-8117-de3217cccd0f.png)
+
+
 
 
 
