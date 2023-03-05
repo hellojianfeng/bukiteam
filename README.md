@@ -24,14 +24,11 @@ develop notification app for team with elaborate role access control
 
 #### 手机界面设计（初步框架）
 
-##### 联系列表
-![image](https://user-images.githubusercontent.com/3657139/222877968-0a8ee6e0-3c8a-44e2-b81f-167f71355d9c.png)
+##### 通知频道
+![image](https://user-images.githubusercontent.com/3657139/222937927-b0d011a7-38aa-434b-9ee2-67519bcb0993.png)
 
-##### 通知列表
-![image](https://user-images.githubusercontent.com/3657139/222878167-dfad47d3-810c-457a-a4e4-84e7783cf35f.png)
-
-##### 角色列表
-![image](https://user-images.githubusercontent.com/3657139/222878196-40a907c5-ef01-46af-85a6-6cb530180221.png)
+##### 聊天频道
+![image](https://user-images.githubusercontent.com/3657139/222937950-34eef175-adb8-4dab-995e-9b5510304a69.png)
 
 
 
